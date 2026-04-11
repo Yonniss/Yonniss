@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yannis Florin Ionica</h1>
-<h3 align="center">A passionate undergrad from Spain</h3>
+<h3 align="center">high school student aspiring software engineer</h3>
 # 💫 About Me:
 🔭 I’m currently working on Termtimer (my own speedcubing timer in terminal)<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Python and robotics. I'm interested to curse software engineering next year as I'll enter college in Spain.<br>⚡ Fun fact: I used to practice speedcubing and had an average of 20 seconds. I was also top 1 in Tetris app in Spain and I practice chess for fun
 
